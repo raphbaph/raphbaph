@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raphbaph
-- 👀 I’m interested in JavaScript, Solidity and Avalanche (AVAX)
+- 👀 I’m interested in JavaScript, Solidity and Ethereum
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on NFT creation 
+- 💞️ Working for Flipside Governance and Delegate at MakerDAO
 - 📫 Best reached via email at rs@dubidu.io
 
 <!---
